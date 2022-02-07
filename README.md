@@ -1,1 +1,11 @@
-readme
+## CONTENT
+
+### SHELL
+    - ZSH  
+
+### CODE
+    - VISUAL STUDIO CODE
+    - INTELLIJ IDEA
+
+### BROWSER
+    - BRAVE
