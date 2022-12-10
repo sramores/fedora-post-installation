@@ -1,6 +1,6 @@
 sudo dnf -y --refresh upgrade
 
-sudo dnf -y install git curl redshift neofetch rofi ranger kitty gh
+sudo dnf -y install git curl redshift neofetch rofi ranger kitty gh btop
 
 
 #zsh zsh-syntax-highlighting -y
